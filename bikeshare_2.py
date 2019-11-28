@@ -114,7 +114,6 @@ def load_data(city, month, day):
 
     return df
 
-
 def time_stats(df, month, day):
     """Displays statistics on the most frequent times of travel."""
 
