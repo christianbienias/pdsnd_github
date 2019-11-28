@@ -5,7 +5,7 @@
 Bikeshare with Python
 
 ### Description
-Python program for Bikeshare statistics
+Python program for Bikeshare statistics and analytics
 
 ### Files used
 bikeshare_2.py
