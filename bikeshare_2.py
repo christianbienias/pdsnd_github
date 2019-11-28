@@ -26,9 +26,6 @@ def get_filters():
             city == city
             break
 
-
-
-
     # get user input for month (all, january, february, ... , june)
     # get user input for day of week (all, monday, tuesday, ... sunday)
 
@@ -116,7 +113,6 @@ def load_data(city, month, day):
         df = df[df['day_of_week'] == day.title()]
 
     return df
-
 
 def time_stats(df, month, day):
     """Displays statistics on the most frequent times of travel."""
