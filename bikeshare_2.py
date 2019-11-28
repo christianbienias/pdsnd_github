@@ -26,9 +26,6 @@ def get_filters():
             city == city
             break
 
-
-
-
     # get user input for month (all, january, february, ... , june)
     # get user input for day of week (all, monday, tuesday, ... sunday)
 
